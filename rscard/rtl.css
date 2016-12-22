@@ -47,6 +47,7 @@ caption, th, td {
  */
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
     float: right;
+   
 }
 
 @media (min-width: 768px) {
@@ -635,4 +636,12 @@ img.alignright {
     vertical-align: middle;
     display: inline-block;
 
+}
+.section-skills {
+      
+}
+
+#skills {
+    
+    
 }

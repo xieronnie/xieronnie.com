@@ -2558,9 +2558,9 @@ body {
     font-weight: 400;
     font-family: 'Fredoka One', cursive;
     line-height: 40px;
-    display: inline-block;
+    display:inline-block;
     vertical-align: middle;
-    overflow: hidden;
+    overflow:hidden;
     margin-top: 7px;
 }
 
@@ -2569,7 +2569,8 @@ body {
 }
 
 .logo, .logo img {
-    max-height: 40px;
+    max-height: 40px;\
+   
 }
 
 .logo img {
@@ -6652,3 +6653,16 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.section-skills {
+     padding-top: 70px;
+
+}
+
+.skills-sections {
+    color: #3d4451;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 600;
+    text-align: center;
+}
