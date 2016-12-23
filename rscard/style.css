@@ -6666,3 +6666,12 @@ body {
     font-weight: 600;
     text-align: center;
 }
+
+.edu-note {
+    display: block;
+    margin-left: 125px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    color:#9da0a7;
+}
